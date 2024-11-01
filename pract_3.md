@@ -106,8 +106,8 @@ in  { groups = groups,
 
 ```bash
 BNF = '''
-E = 10 | 100 | 11 | 101101 | 000
-'''
+E = B | BB | BBB | BBBBBB
+B = 0 | 1
 ```
 
 ## 4 Задание
