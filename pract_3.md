@@ -106,10 +106,11 @@ in  { groups = groups,
 
 ```bash
 BNF = '''
-E = B | BB | BBB | BBBBBB
+E = B | B E
 B = 0 | 1
 '''
 ```
+![image](https://github.com/user-attachments/assets/9962856a-bd59-4777-b19b-bb67573d4ffa)
 
 ## 4 Задание
 Язык правильно расставленных скобок двух видов.
@@ -124,11 +125,12 @@ B = 0 | 1
 
 ```bash
 BNF = '''
-S = S1 | S2 | SS
-S1 = ( S )
-S2 = { S }
+E = S | SS
+S = (E) | {E} | ''
 '''
 ```
+![image](https://github.com/user-attachments/assets/74299b06-eb99-4f18-b5b7-804e0558248f)
+
 
 ## 5 Задание
 Язык выражений алгебры логики.
@@ -149,3 +151,5 @@ F = V | '~' F | '(' E ')'
 V = x | y | z
 '''
 ```
+![image](https://github.com/user-attachments/assets/bc1ba15b-ebf6-4ca3-96ec-49c790e9fe0c)
+
