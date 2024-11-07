@@ -292,7 +292,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
+Вывод
 ```
 $ python list_git_objects.py
 Object ID: 6bf5414fc8c660b10269fd865b0ce80f3314f075
