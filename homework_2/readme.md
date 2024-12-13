@@ -36,7 +36,7 @@ python test_dependency_visualizer.py
 ```
 
 ### Пример тестирования 
-1. **Вывод программы:**
+1. **Png файл с графиком:**
    
 ![1c930ea6-6093-4a48-b978-24729086f0b8](https://github.com/user-attachments/assets/16788668-a603-4ec4-b5ec-321f8ce9a5a0)
 
