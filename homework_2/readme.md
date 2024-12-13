@@ -39,3 +39,7 @@ python test_dependency_visualizer.py
 1. **Вывод программы:**
    
 ![1c930ea6-6093-4a48-b978-24729086f0b8](https://github.com/user-attachments/assets/16788668-a603-4ec4-b5ec-321f8ce9a5a0)
+
+2. **Результаты unittest:**
+
+![image](https://github.com/user-attachments/assets/2ea7491c-021c-4f19-8590-57590ba80c9b)
