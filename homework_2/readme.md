@@ -34,3 +34,8 @@ python dependency_visualizer.py --visualizer "C:\PlantUML\plantuml.jar" --packag
 ```bash
 python test_dependency_visualizer.py
 ```
+
+### Пример тестирования 
+1. **Вывод программы:**
+
+    ![Вывод программы]![1c930ea6-6093-4a48-b978-24729086f0b8](https://github.com/user-attachments/assets/69bc8bb8-0f9d-4db7-9026-3705e3c2460f)
