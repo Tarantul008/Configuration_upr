@@ -5,4 +5,5 @@
 3. [Практика №5](/pract_5.md)
 
 ## Домашние задания
+1. [Homework 1](/homework_1/)
 2. [Homework 2](/homework_2/)
