@@ -42,7 +42,7 @@ zip. Эмулятор должен работать в режиме CLI.
 
 #### Тестирование команды `date`
 
-(https://github.com/user-attachments/assets/c4040479-c992-4a98-a2bc-ae5332eef044)
+![image](https://github.com/user-attachments/assets/da309ca3-8c9e-45ab-b119-4ef7274a101a)
 
 #### Тестирование команды `rmdir`
 
