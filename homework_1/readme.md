@@ -50,4 +50,5 @@ zip. Эмулятор должен работать в режиме CLI.
 
 #### Результаты unittest
 
-(https://github.com/user-attachments/assets/ee6b170d-ca84-4b42-8788-2b8a24cfbb0b)
+![image](https://github.com/user-attachments/assets/6b8ec2aa-9994-415d-a143-b90352296938)
+
