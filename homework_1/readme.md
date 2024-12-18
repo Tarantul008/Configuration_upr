@@ -46,7 +46,7 @@ zip. Эмулятор должен работать в режиме CLI.
 
 #### Тестирование команды `rmdir`
 
-(https://github.com/user-attachments/assets/807d0cda-514e-4372-bab8-1f5a6a743486)
+![image](https://github.com/user-attachments/assets/69bd003b-ac49-468d-a93f-96c59979b11d)
 
 #### Результаты unittest
 
