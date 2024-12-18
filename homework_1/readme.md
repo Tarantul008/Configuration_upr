@@ -34,20 +34,20 @@ zip. Эмулятор должен работать в режиме CLI.
 
 #### Тестирование команды `ls`
 
-![Тестирование ls](![image](https://github.com/user-attachments/assets/b0203fc1-89d4-4053-b1b6-a9ada022c234))
+(https://github.com/user-attachments/assets/b0203fc1-89d4-4053-b1b6-a9ada022c234)
 
 #### Тестирование команды `cd`
 
-![Тестирование cd](![image](https://github.com/user-attachments/assets/8b4be1f4-b4ed-42a9-a723-e70a669c1171))
+(https://github.com/user-attachments/assets/8b4be1f4-b4ed-42a9-a723-e70a669c1171)
 
 #### Тестирование команды `date`
 
-![Тестирование date](![image](https://github.com/user-attachments/assets/c4040479-c992-4a98-a2bc-ae5332eef044))
+(https://github.com/user-attachments/assets/c4040479-c992-4a98-a2bc-ae5332eef044)
 
 #### Тестирование команды `rmdir`
 
-![Тестирование rmdir](![image](https://github.com/user-attachments/assets/807d0cda-514e-4372-bab8-1f5a6a743486))
+(https://github.com/user-attachments/assets/807d0cda-514e-4372-bab8-1f5a6a743486)
 
 #### Результаты unittest
 
-![Результаты unittest](![image](https://github.com/user-attachments/assets/ee6b170d-ca84-4b42-8788-2b8a24cfbb0b))
+(https://github.com/user-attachments/assets/ee6b170d-ca84-4b42-8788-2b8a24cfbb0b)
