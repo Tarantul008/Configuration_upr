@@ -38,7 +38,7 @@ zip. Эмулятор должен работать в режиме CLI.
 
 #### Тестирование команды `cd`
 
-(https://github.com/user-attachments/assets/8b4be1f4-b4ed-42a9-a723-e70a669c1171)
+![image](https://github.com/user-attachments/assets/4dd7b987-809a-4306-ac7d-bb7620753c02)
 
 #### Тестирование команды `date`
 
