@@ -34,7 +34,7 @@ zip. Эмулятор должен работать в режиме CLI.
 
 #### Тестирование команды `ls`
 
-(https://github.com/user-attachments/assets/b0203fc1-89d4-4053-b1b6-a9ada022c234)
+![image](https://github.com/user-attachments/assets/03c41f5b-26c6-426b-b60d-4bcaed0a94f9)
 
 #### Тестирование команды `cd`
 
