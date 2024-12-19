@@ -1,0 +1,14 @@
+#[
+Многострочный
+комментарий
+]#
+' Это однострочный комментарий
+
+name = array(1, 2, 3)
+settings = {
+    option1 => 100,
+    option2 => array(4, 5, 6),
+    option3 => {
+        suboption => |name|
+    }
+}
