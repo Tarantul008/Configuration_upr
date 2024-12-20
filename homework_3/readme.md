@@ -46,7 +46,7 @@ array( значение, значение, значение, ... )
 Для запуска конвертера ввести в консоль:
 
 ```bash
-python converter.py config.txt
+python3 converter.py config.txt
 ```
 Для запуска тестов ввести в консоль:
 
